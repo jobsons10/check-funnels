@@ -4,7 +4,7 @@
   "description": "",
   "main": "teste.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "teste.js"
   },
   "keywords": [],
   "author": "",
